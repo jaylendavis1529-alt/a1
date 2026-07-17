@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.quickshineauto.com/sitemap.xml
+Sitemap: https://www.freshforkdaily.com/sitemap.xml
