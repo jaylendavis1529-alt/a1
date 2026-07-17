@@ -1,4 +1,7 @@
+# Disallow Web Bots
 User-agent: *
-Allow: /
+Disallow: /
 
-Sitemap: https://www.quickshineauto.com/sitemap.xml
+# Disallow Archive Bots
+User-agent: ia_archiver
+Disallow: /
