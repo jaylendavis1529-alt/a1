@@ -1,7 +1,7 @@
 /* ============================================================
-   FreshFork Daily — script.js
-   Header, mobile nav, reveals, counters, tilt, drag rail,
-   newsletter forms, cookie consent (Consent Mode v2), form UX
+   QuickShine Auto — script.js
+   Header, mobile nav, reveal-on-scroll, counters, tilt,
+   parallax, cookie consent (Google Consent Mode v2), form UX
    ============================================================ */
 (function () {
   "use strict";
@@ -43,7 +43,7 @@
           io.unobserve(e.target);
         }
       });
-    }, { threshold: 0.13, rootMargin: "0px 0px -40px 0px" });
+    }, { threshold: 0.14, rootMargin: "0px 0px -40px 0px" });
     revealEls.forEach(function (el) { io.observe(el); });
   } else {
     revealEls.forEach(function (el) { el.classList.add("in"); });
@@ -53,7 +53,7 @@
   function animateCounter(el) {
     var target = parseFloat(el.getAttribute("data-count") || "0");
     var suffix = el.getAttribute("data-suffix") || "";
-    var dur = 1700;
+    var dur = 1600;
     var start = null;
     function tick(ts) {
       if (!start) start = ts;
@@ -82,7 +82,7 @@
     counters.forEach(function (el) { cio.observe(el); });
   }
 
-  /* ---------- Card tilt ---------- */
+  /* ---------- Card tilt (desktop, pointer-fine only) ---------- */
   if (!prefersReduced && window.matchMedia("(pointer: fine)").matches) {
     document.querySelectorAll("[data-tilt]").forEach(function (card) {
       card.addEventListener("mousemove", function (ev) {
@@ -90,7 +90,7 @@
         var x = (ev.clientX - r.left) / r.width - 0.5;
         var y = (ev.clientY - r.top) / r.height - 0.5;
         card.style.transform =
-          "translateY(-8px) rotateX(" + (-y * 4.5) + "deg) rotateY(" + (x * 4.5) + "deg)";
+          "translateY(-6px) rotateX(" + (-y * 5) + "deg) rotateY(" + (x * 5) + "deg)";
       });
       card.addEventListener("mouseleave", function () {
         card.style.transform = "";
@@ -98,66 +98,30 @@
     });
   }
 
-  /* ---------- Recipe rail: buttons + drag to scroll ---------- */
-  document.querySelectorAll(".rail-wrap").forEach(function (wrap) {
-    var rail = wrap.querySelector(".rail");
-    if (!rail) return;
-    var prev = wrap.querySelector("[data-rail='prev']");
-    var next = wrap.querySelector("[data-rail='next']");
-    function step() {
-      var first = rail.firstElementChild;
-      return first ? first.getBoundingClientRect().width + 22 : 320;
-    }
-    if (prev) prev.addEventListener("click", function () {
-      rail.scrollBy({ left: -step(), behavior: prefersReduced ? "auto" : "smooth" });
-    });
-    if (next) next.addEventListener("click", function () {
-      rail.scrollBy({ left: step(), behavior: prefersReduced ? "auto" : "smooth" });
-    });
-
-    var isDown = false, startX = 0, startScroll = 0, moved = false;
-    rail.addEventListener("pointerdown", function (e) {
-      if (e.pointerType !== "mouse") return;
-      isDown = true; moved = false;
-      startX = e.clientX; startScroll = rail.scrollLeft;
-      rail.classList.add("dragging");
-    });
-    window.addEventListener("pointermove", function (e) {
-      if (!isDown) return;
-      var dx = e.clientX - startX;
-      if (Math.abs(dx) > 4) moved = true;
-      rail.scrollLeft = startScroll - dx;
-    });
-    window.addEventListener("pointerup", function () {
-      isDown = false;
-      rail.classList.remove("dragging");
-    });
-    rail.addEventListener("click", function (e) {
-      if (moved) { e.preventDefault(); e.stopPropagation(); moved = false; }
-    }, true);
-  });
-
-  /* ---------- Newsletter forms ---------- */
-  document.querySelectorAll(".subscribe-form").forEach(function (sf) {
-    sf.addEventListener("submit", function (e) {
-      e.preventDefault();
-      var input = sf.querySelector("input[type='email']");
-      if (!input || !input.checkValidity()) {
-        if (input) input.reportValidity();
-        return;
+  /* ---------- Subtle hero parallax ---------- */
+  var heroImg = document.querySelector(".hero-media img");
+  if (heroImg && !prefersReduced) {
+    window.addEventListener("scroll", function () {
+      var y = window.scrollY;
+      if (y < window.innerHeight) {
+        heroImg.style.translate = "0 " + y * 0.12 + "px";
       }
-      var ok = sf.parentElement.querySelector(".subscribe-success");
-      if (ok) ok.style.display = "block";
-      input.value = "";
-      input.blur();
-      if (typeof gtag === "function") {
-        gtag("event", "sign_up", { method: "newsletter" });
-      }
+    }, { passive: true });
+  }
+
+  /* ---------- Back to top ---------- */
+  var toTop = document.querySelector(".to-top");
+  if (toTop) {
+    window.addEventListener("scroll", function () {
+      toTop.classList.toggle("show", window.scrollY > 600);
+    }, { passive: true });
+    toTop.addEventListener("click", function () {
+      window.scrollTo({ top: 0, behavior: prefersReduced ? "auto" : "smooth" });
     });
-  });
+  }
 
   /* ---------- Contact form (validate on blur) ---------- */
-  var form = document.getElementById("contact-form");
+  var form = document.getElementById("quote-form");
   if (form) {
     function validateField(field) {
       var input = field.querySelector("input, textarea, select");
@@ -188,24 +152,13 @@
         el.disabled = true;
       });
       if (typeof gtag === "function") {
-        gtag("event", "generate_lead", { form_id: "contact-form" });
+        gtag("event", "generate_lead", { form_id: "quote-form" });
       }
     });
   }
 
-  /* ---------- Back to top ---------- */
-  var toTop = document.querySelector(".to-top");
-  if (toTop) {
-    window.addEventListener("scroll", function () {
-      toTop.classList.toggle("show", window.scrollY > 600);
-    }, { passive: true });
-    toTop.addEventListener("click", function () {
-      window.scrollTo({ top: 0, behavior: prefersReduced ? "auto" : "smooth" });
-    });
-  }
-
   /* ---------- Cookie consent (Google Consent Mode v2) ---------- */
-  var CONSENT_KEY = "ffd_cookie_consent";
+  var CONSENT_KEY = "qsa_cookie_consent";
   var banner = document.querySelector(".cookie-banner");
 
   function applyConsent(granted) {
